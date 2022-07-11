@@ -9,5 +9,6 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 #### Statistics
 <div class="row" height="100px">
 <img src="https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=icegray&hide_title=true&layout=compact&count_private=true" width="50%" align="top" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasborggren&layout=compact&theme=icegray&count_private=true&hide_title=true" width="49%" height="100%" align="top" />
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasborggren&layout=compact&theme=icegray&count_private=true&hide_title=true" width="49%" height="100%" align="top" />-->
 </div>
