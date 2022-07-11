@@ -1,4 +1,4 @@
-### Hello!
+### Hello! :wave:
 
 I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of coding experience. 
 
