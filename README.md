@@ -8,5 +8,7 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 
 <hr style="height:30px"/>
 
-<h3 align="center">My stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jonasborggren&theme=vue&hide_border=true" width="100%"/>
+<div align="center">
+<h3>My statistics</h3>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonasborggren&theme=vue&hide_border=true" width="70%"/>
+</div>
