@@ -6,9 +6,8 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 - 🌱 I’m currently learning: [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
 - 💼 You can reach me here: [LinkedIn profile](https://linkedin.com/in/jonasborggren)
 
-<hr style="height:30px"/>
-
-<div align="center">
-<h3>My statistics</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonasborggren&theme=vue&hide_border=true" width="70%"/>
+#### Statistics
+<div class="row" height="100px">
+<img src="https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=icegray&hide_title=true&layout=compact&count_private=true" width="50%" align="top" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasborggren&layout=compact&theme=icegray&count_private=true" width="49%" height="100%" align="top" />
 </div>
