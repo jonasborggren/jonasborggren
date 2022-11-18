@@ -7,7 +7,7 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 - 💼 You can reach me here: [LinkedIn profile](https://linkedin.com/in/jonasborggren)
 
 #### Projects
-<a href="https://github.com/jonasborggren"><img src="https://user-images.githubusercontent.com/5494102/195176356-13a7ba00-0952-424f-9e4b-0c6b2e0a6f8c.png" align="top" width="100px" /></a>
+<a href="https://github.com/jonasborggren/jernal-desktop"><img src="https://user-images.githubusercontent.com/5494102/195176356-13a7ba00-0952-424f-9e4b-0c6b2e0a6f8c.png" align="top" width="100px" /></a>
 #### Statistics
 <div class="row" height="100px">
 <a href="https://github.com/jonasborggren"><img src="https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=icegray&hide_title=true&layout=compact&count_private=true" width="50%" align="top" /></a>
