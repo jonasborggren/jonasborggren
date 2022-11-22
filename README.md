@@ -9,6 +9,8 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 #### Projects
 <a href="https://github.com/jonasborggren/jernal-desktop"><img src="https://user-images.githubusercontent.com/5494102/195176356-13a7ba00-0952-424f-9e4b-0c6b2e0a6f8c.png" align="top" width="100px" /></a>
 #### Statistics
-![Statistics](https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=icegray&bg_color=00000000&hide_title=true&border_color=30363d&text_color=c9d1d9&title_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&layout=compact&count_private=true#gh-dark-mode-only)
-![Statistics](https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=transparent&bg_color=00000000&hide_title=true&border_color=d0d7de&text_color=c9d1d9&title_color=c9d1d9&icon_color=58a6ff&ring_color=33eeff&layout=compact&count_private=true#gh-light-mode-only)
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=icegray&bg_color=00000000&hide_title=true&border_color=30363d&text_color=c9d1d9&title_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&layout=compact&count_private=true">
+  <img alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=jonasborggren&show_icons=true&include_all_commits=true&hide=stars&theme=transparent&bg_color=00000000&hide_title=true&border_color=d0d7de&text_color=24292f&title_color=24292f&icon_color=58a6ff&ring_color=58a6ff&layout=compact&count_private=true">
+</picture>
+
