@@ -9,7 +9,7 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
 <a href="https://github.com/jonasborggren/jernal-desktop">
   <img src="https://user-images.githubusercontent.com/5494102/195176356-13a7ba00-0952-424f-9e4b-0c6b2e0a6f8c.png" align="top" width="100px" />
 </a>
-<a href="https://apps.apple.com/se/app/baby-feeding-reminders/id6458187114?l=en-GB">
+<a href="https://apps.apple.com/se/app/baby-feeding-reminders/id6458187114">
   <img src="image.png" align="top" width="100px" />
 </a>
 
