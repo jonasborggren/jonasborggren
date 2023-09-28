@@ -10,7 +10,7 @@ I'm Jonas! I'm a developer from Stockholm 🇸🇪 with roughly 10 years of codi
   <img src="https://user-images.githubusercontent.com/5494102/195176356-13a7ba00-0952-424f-9e4b-0c6b2e0a6f8c.png" align="top" width="100px" />
 </a>
 <a href="https://apps.apple.com/se/app/baby-feeding-reminders/id6458187114?l=en-GB">
-  <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/e75e3d99-0c5b-4381-ba9a-02f220bea876" align="top" width="100px" />
+  <img src="image.png" align="top" width="100px" />
 </a>
 
 #### Statistics
