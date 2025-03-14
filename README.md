@@ -1,6 +1,6 @@
 ### Hello! :wave:
 
-I'm Jonas! I'm a developer from 🇸🇪 Stockholm. I mostly build <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/2a6046ec-8cc7-4e5d-88c7-aba60ae40b15" height="16px"/> Flutter and <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/eb18aa4e-c655-4c5a-bc5a-5d13951063c7" height="16px"/> Android things!
+I'm Jonas! I'm a developer from 🇸🇪 Stockholm. I mostly build <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/2a6046ec-8cc7-4e5d-88c7-aba60ae40b15" height="16px"/> **Flutter** and <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/eb18aa4e-c655-4c5a-bc5a-5d13951063c7" height="16px"/> **Android** things!
 
 🔭 You can reach me on <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/62ca1301-6478-42cb-a9aa-812396318f64" width="18px"/> [LinkedIn](https://linkedin.com/in/jonasborggren) or <img src="https://github.com/jonasborggren/jonasborggren/assets/5494102/d0b1dd57-07ce-4828-8204-f144e650650c" width="16px"> [stackoverflow](https://stackoverflow.com/users/3064486/jonas-borggren)
 
